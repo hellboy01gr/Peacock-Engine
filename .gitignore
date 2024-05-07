@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Builds
+bin/
+
+# makefiles
+Makefile
+*.make
+
+# vscode
+.vscode/
